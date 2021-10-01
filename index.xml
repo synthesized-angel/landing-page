@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Synthesized Angel</title>
+    <link>https://synthesizedangel.com/</link>
+    <description>Recent content on Synthesized Angel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://synthesizedangel.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://synthesizedangel.com/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://synthesizedangel.com/features/</guid>
+      <description>Ongoing  Ongaku Play Unamed Radio Project  Upcoming  Forking Music Streaming Service To Andriod and iOS Platforms Music Player For Andriod And iOS Unamed Project:Visual Novel [A Original Visual Novel Made By Us] (Planning)  </description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://synthesizedangel.com/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://synthesizedangel.com/docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ongaku</title>
+      <link>https://synthesizedangel.com/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://synthesizedangel.com/elements/</guid>
+      <description>+++</description>
+    </item>
+    
+    <item>
+      <title>Discord</title>
+      <link>https://synthesizedangel.com/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://synthesizedangel.com/support/</guid>
+      <description>If you want to submit a bug or feature request, please create a new issue in GitLab.
+Thanks for using Dimension!</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://synthesizedangel.com/repo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://synthesizedangel.com/repo/</guid>
+      <description>We Are A Community Working On Awesome Projects.
+What We Are  Inspired By Anime Culture. We Work On Awesome Projects. Made Possible With Awesome People 😆 New Community And Expanding One At That Made By Weebs For Weebs.   Synthesized Angel is the Development Sector Of Otaku No Ongaku</description>
+    </item>
+    
+  </channel>
+</rss>

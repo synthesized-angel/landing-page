@@ -1,0 +1,84 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url><loc>https://synthesizedangel.com/ru/features
+    </loc>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://synthesizedangel.com/features"
+                  />
+      
+    </url>
+  
+  <url><loc>https://synthesizedangel.com/ru/docs
+    </loc>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://synthesizedangel.com/docs"
+                  />
+      
+    </url>
+  
+  <url><loc>https://synthesizedangel.com/ru/elements
+    </loc>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://synthesizedangel.com/elements"
+                  />
+      
+    </url>
+  
+  <url><loc>https://synthesizedangel.com/ru/support
+    </loc>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://synthesizedangel.com/support"
+                  />
+      
+    </url>
+  
+  <url><loc>https://synthesizedangel.com/ru/repo
+    </loc>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://synthesizedangel.com/repo"
+                  />
+      
+    </url>
+  
+  <url><loc>https://synthesizedangel.com/ru/categories
+    </loc>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://synthesizedangel.com/categories"
+                  />
+      
+    </url>
+  
+  <url><loc>https://synthesizedangel.com/ru/tags
+    </loc>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://synthesizedangel.com/tags"
+                  />
+      
+    </url>
+  
+  <url><loc>https://synthesizedangel.com/ru
+    </loc>
+      <xhtml:link
+                  rel="alternate"
+                  hreflang="en"
+                  href="https://synthesizedangel.com"
+                  />
+      
+    </url>
+  
+</urlset>
